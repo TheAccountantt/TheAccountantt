@@ -4,7 +4,7 @@
 
 I'm a finance professional based in the UK who writes code to solve real business problems. With a first-class degree in Accounting & Finance and currently completing my ACA qualification, I specialise in building Python automation tools for finance teams connecting systems, eliminating manual work, and turning hours of spreadsheet wrangling into one-click processes.
 
-> ⚡ Fun fact: I've automated processes that save around 3 hours daily (at least) for the finance team — proving accountants can code!
+> ⚡ Fun fact: I've automated processes that save around 3 hours daily (at least) for the finance team proving accountants can code!
 
 ---
 
@@ -35,7 +35,7 @@ I'm a finance professional based in the UK who writes code to solve real busines
 ### 📚 Currently
 
 - 🎓 Completing my **ACA qualification** (ICAEW)
-- 🏗️ Leading a **Dynamics 365 Business Central** implementation (go-live: July 2026)
+- 🏗️ Leading a **Dynamics 365 Business Central** implementation
 - 🌱 Expanding my skills in **API integrations**, **data visualisation**, and **process automation**
 - 💡 Exploring opportunities to build a business at the intersection of finance and technology
 
@@ -43,7 +43,7 @@ I'm a finance professional based in the UK who writes code to solve real busines
 
 ### 🤝 Let's Connect
 
-I'm open to collaborations on accounting and finance automation projects — especially anything involving API integrations, financial reporting tools, or making accountants' lives easier.
+I'm open to collaborations on accounting and finance automation projects, especially anything involving API integrations, financial reporting tools, or making accountants' lives easier.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fdanieletto)
 
