@@ -2,9 +2,9 @@
 
 **Management Accountant | Finance Automation Builder | ICAEW Finalist**
 
-I'm a finance professional based in the UK who writes code to solve real business problems. With a first-class degree in Accounting & Finance and currently completing my ACA qualification, I specialise in building Python automation tools for finance teams — connecting systems, eliminating manual work, and turning hours of spreadsheet wrangling into one-click processes.
+I'm a finance professional based in the UK who writes code to solve real business problems. With a first-class degree in Accounting & Finance and currently completing my ACA qualification, I specialise in building Python automation tools for finance teams connecting systems, eliminating manual work, and turning hours of spreadsheet wrangling into one-click processes.
 
-> ⚡ Fun fact: I've automated processes that save around 30 minutes daily (at least) for the finance team — proving accountants can code!
+> ⚡ Fun fact: I've automated processes that save around 3 hours daily (at least) for the finance team — proving accountants can code!
 
 ---
 
