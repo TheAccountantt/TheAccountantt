@@ -48,7 +48,3 @@ I'm open to collaborations on accounting and finance automation projects, especi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fdanieletto)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheAccountantt&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
