@@ -1,19 +1,17 @@
-# Hi, I'm Fernando 👋
+# Hi, I'm Fernando 
 
-**Management Accountant | Finance Automation Builder | ICAEW Finalist**
+**Finance Automation Builder**
 
-I'm a finance professional who writes code to solve real business problems. With a first-class degree in Accounting & Finance and currently completing my ACA qualification, I specialise in building Python automation tools for finance teams connecting systems, eliminating manual work, and turning hours of spreadsheet wrangling into one-click processes.
-
-> ⚡ Fun fact: I've automated processes that save around 3 hours daily (at least) for the finance team proving accountants can code!
+I'm a finance professional who writes code to solve real business problems. I specialise in building Python automation tools for finance teams connecting systems, eliminating manual work, and turning hours of spreadsheet wrangling into one-click processes.
 
 ---
 
-### 🔧 What I Build
+### 🔧 Some of my work
 
-- **VAT & Compliance Automation** — Python scripts that auto-correct OSS VAT codes on international e-commerce invoices via Xero & Unleashed APIs, with Teams webhook alerts
-- **Financial Dashboards** — Azure Function Apps feeding Power BI dashboards with live data from multi-region operations (UK & EU)
+- **VAT & Compliance Automation** — Python scripts that auto-correct OSS VAT codes on international e-commerce invoices via Xero & Unleashed (Access Financials) APIs, with Teams webhook alerts
+- **Financial Dashboards** — Azure Function Apps feeding Power BI dashboards with live data from multi-region operations
 - **Margin Tracking Tools** — Automated product GP margin analysis with live FX rates from the ECB, replacing manual Excel processes
-- **Cost Reconciliation** — Monthly reconciliation automation between Xero and Unleashed, built in both Python and Power Query for team accessibility
+- **Cost Reconciliation** — Monthly reconciliation automation between Xero and Unleashed (Access Financials), built in both Python and Power Query for team accessibility
 - **ERP Implementation** — Leading a Microsoft Dynamics 365 Business Central rollout for a kitchen unit manufacturing operation processing 100+ orders daily
 
 ---
@@ -28,7 +26,7 @@ I'm a finance professional who writes code to solve real business problems. With
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-**APIs I work with:** Xero · Unleashed · ECB Exchange Rates · Microsoft Teams Webhooks
+**APIs I am currently working with:** Xero · Unleashed · ECB Exchange Rates · Microsoft Teams Webhooks
 
 ---
 
