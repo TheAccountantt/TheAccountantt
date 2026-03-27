@@ -13,6 +13,7 @@ I'm a finance professional who writes code to solve real business problems. I sp
 - **Margin Tracking Tools** — Automated product GP margin analysis with live FX rates from the ECB, replacing manual Excel processes
 - **Cost Reconciliation** — Monthly reconciliation automation between Xero and Unleashed (Access Financials), built in both Python and Power Query for team accessibility
 - **ERP Implementation** — Leading a Microsoft Dynamics 365 Business Central rollout for a kitchen unit manufacturing operation processing 100+ orders daily
+- **Busines Central** - Sandbox Environment comparsion tool to help identify discrepancies in settings when creating a new sandbox
 
 ---
 
