@@ -27,7 +27,7 @@ I'm a finance professional who writes code to solve real business problems. I sp
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-**APIs I worked with:** Xero · Unleashed · ECB Exchange Rates · Microsoft Teams Webhooks
+**APIs I have worked with:** Xero · Unleashed · ECB Exchange Rates · Microsoft Teams Webhooks
 
 ---
 
@@ -48,4 +48,3 @@ Open to collaborations on accounting and finance automation projects.
 *Everything here is personal work, built in my own time. Nothing in
 these repositories is connected to or endorsed by my employer.*
 
----
