@@ -12,8 +12,8 @@ I'm a finance professional who writes code to solve real business problems. I sp
 - **Financial Dashboards** — Azure Function Apps feeding Power BI dashboards with live data from multi-region operations
 - **Margin Tracking Tools** — Automated product GP margin analysis with live FX rates from the ECB, replacing manual Excel processes
 - **Cost Reconciliation** — Monthly reconciliation automation between Xero and Unleashed (Access Financials), built in both Python and Power Query for team accessibility
-- **ERP Implementation** — Leading a Microsoft Dynamics 365 Business Central rollout for a kitchen unit manufacturing operation processing 100+ orders daily
-- **Busines Central** - Sandbox Environment comparsion tool to help identify discrepancies in settings when creating a new sandbox
+- **ERP Implementation** — Project managed a Microsoft Dynamics 365 Business Central rollout across finance, manufacturing, purchasing and sales
+- **Business Central sandbox comparison** - a tool to identify configuration discrepancies between sandbox environments
 
 ---
 
@@ -27,23 +27,25 @@ I'm a finance professional who writes code to solve real business problems. I sp
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-**APIs I am currently working with:** Xero · Unleashed · ECB Exchange Rates · Microsoft Teams Webhooks
+**APIs I worked with:** Xero · Unleashed · ECB Exchange Rates · Microsoft Teams Webhooks
 
 ---
 
 ### 📚 Currently
 
 - 🎓 Completing my **ACA qualification** (ICAEW)
-- 🏗️ Leading a **Dynamics 365 Business Central** implementation
+- 🏗️ Working in finance and operations in the UK public sector
 - 🌱 Expanding my skills in **API integrations**, **data visualisation**, and **process automation**
-- 💡 Exploring opportunities to build a business at the intersection of finance and technology
 
 ---
 
 ### 🤝 Let's Connect
 
-I'm open to collaborations on accounting and finance automation projects, especially anything involving API integrations, financial reporting tools, or making accountants' lives easier.
+Open to collaborations on accounting and finance automation projects. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fdanieletto)
+
+*Everything here is personal work, built in my own time. Nothing in
+these repositories is connected to or endorsed by my employer.*
 
 ---
