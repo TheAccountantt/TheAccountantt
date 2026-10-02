@@ -1,8 +1,6 @@
-# Hi, I'm Fernando 
+# Hi,
 
-**Finance Automation Builder**
-
-I'm a finance professional who writes code to solve real business problems. I specialise in building Python automation tools for finance teams connecting systems, eliminating manual work, and turning hours of spreadsheet wrangling into one-click processes.
+I'm a finance professional experimenting with code to improve data analysis, forecasting and automation. I focus in building Python automation tools for finance, connecting systems, eliminating manual work, and turning hours of spreadsheet wrangling into one-click processes.
 
 ---
 
